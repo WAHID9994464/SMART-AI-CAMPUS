@@ -1,4 +1,4 @@
-# NexusEco — AI-Powered Sustainable Campus
+# SMART AI CAMPUS — AI-Powered Sustainable Campus
 
 > **Tagline:** See Waste. Predict Impact. Build a Greener Campus.
 
